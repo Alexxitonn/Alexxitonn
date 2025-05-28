@@ -1,7 +1,3 @@
-<table>
-  <tr>
-    <td valign="top" width="70%">
-
 <img src="https://link-to-your-image.com/banner.gif" alt="Alex's GitHub Banner" style="width:100%; border-radius:10px;"/>
 
 ### 👋 Hi! I'm Alex
@@ -16,16 +12,11 @@ Always curious and exploring new things.
 
 ---
 
-    </td>
-    <td valign="top" width="30%">
+
 
 ### 🌐 Social Media
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Alexxitonn)  
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram)](https://instagram.com/x._parr._x)  
-
-    </td>
-  </tr>
-</table>
 
