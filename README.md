@@ -1,3 +1,7 @@
+<div>
+  <img src="banner.png">
+</div>
+
 # 💫 About Me:
 🔭 Currently working on: **small personal projects**  <br>🌱 Learning: **Just finishing a vocational degree in Microcomputer Systems and Networks, and excited to start a Higher Degree in Web Application Development**  <br>💡 I'm interested in learning more about **frontend**, **backend**, and I'm open to **open source** contributions  <br>📫 Feel free to reach out below 👇
 
