@@ -1,16 +1,29 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td valign="top" width="70%">
 
-<!--
-**Alexxitonn/Alexxitonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 ¡Hola! Soy **[Tu Nombre]**
 
-Here are some ideas to get you started:
+Desarrollador apasionado por la tecnología, el código limpio y los proyectos con impacto real.  
+Especializado en **[tu stack principal]** y siempre aprendiendo algo nuevo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Actualmente trabajando en: **[tu proyecto o empresa]**  
+🌱 Aprendiendo: **[tecnología, framework o idioma]**  
+💡 Me interesa: **Open Source**, **UI minimalista**, **automación**  
+📫 Contáctame abajo 👇
+
+---
+
+    </td>
+    <td valign="top" width="30%">
+
+### 🌐 Redes Sociales
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://linkedin.com/in/tuusuario)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/tuusuario)  
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram)](https://instagram.com/tuusuario)  
+[![YouTube](https://img.shields.io/badge/-YouTube-black?style=flat&logo=youtube)](https://youtube.com/@tuusuario)  
+
+    </td>
+  </tr>
+</table>
